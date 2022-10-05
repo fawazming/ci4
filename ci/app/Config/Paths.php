@@ -67,7 +67,7 @@ class Paths
      *
      * @var string
      */
-    // public $testsDirectory = __DIR__ . '/../../tests';
+    public $testsDirectory = __DIR__ . '/../tests';
 
     /**
      * ---------------------------------------------------------------
